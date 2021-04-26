@@ -17,7 +17,7 @@ export default function SearchBar(props) {
 						autoComplete="off"
 					/>
 					<input
-						type="search"
+		 				type="search"
 						name="y"
 						className="py-2 text-sm text-gray-600 bg-gray-100 rounded-md px-2  focus:outline-none focus:ring focus:border-purple-600 focus:bg-white focus:text-gray-900"
 						placeholder="Year"

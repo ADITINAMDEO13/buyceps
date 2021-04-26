@@ -13,7 +13,7 @@ Router.onRouteChangeError = () => NProgress.done()
 
 function MyApp({ Component, pageProps }) {
 	return (
-		<>
+		<> 
 			<Head>
 				<link
 					rel="stylesheet"
